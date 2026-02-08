@@ -51,19 +51,19 @@
     <Button
         android:id="@+id/leftButton"
         style="@style/Button"
+        android:layout_marginStart="25dp"
+        android:contentDescription="@string/leftButtonTalkBack"
         android:text="@string/previous"
-        app:layout_constraintEnd_toStartOf="@id/rightButton"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:contentDescription="@string/leftButtonTalkBack"/>
+        app:layout_constraintStart_toStartOf="parent"/>
 
     <Button
         android:id="@+id/rightButton"
         style="@style/Button"
         android:text="@string/next"
-        app:layout_constraintStart_toEndOf="@id/leftButton"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:contentDescription="@string/rightButtonTalkBack"/>
+        android:contentDescription="@string/rightButtonTalkBack"
+        android:layout_marginEnd="25dp"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
+    <string name="leftButtonTalkBack">Предыдущее произведение искусства</string>
+    <string name="rightButtonTalkBack">Следующее произведение искусства</string>
+
+    <string name="title1">Звёздная ночь</string>
+    <string name="desc1">Винсент Ван Гог, 1889</string>
+    <string name="talkBack1">Картина «Звёздная ночь» Винсента Ван Гога</string>
+
+    <string name="title2">Мона Лиза</string>
+    <string name="desc2">Леонардо да Винчи, ок. 1503–1506</string>
+    <string name="talkBack2">Картина «Мона Лиза» Леонардо да Винчи</string>
+
+    <string name="title3">Богатыри</string>
+    <string name="desc3">Виктор Васнецов, 1898</string>
+    <string name="talkBack3">Картина «Богатыри (Три богатыря)» Виктора Васнецова</string>
+
+    <string name="title4">Девочка с персиками</string>
+    <string name="desc4">Валентин Серов, 1887</string>
+    <string name="talkBack4">Картина «Девочка с персиками» Валентина Серова</string>
+
+    <string name="title5">Витязь на распутье</string>
+    <string name="desc5">Виктор Васнецов, 1882</string>
+    <string name="talkBack5">Картина «Витязь на распутье» Виктора Васнецова</string>
+</resources>
